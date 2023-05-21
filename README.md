@@ -19,8 +19,10 @@ The Flight Tracker application was built adhering to the principles of Object-Or
 This project serves as a demonstration of how Java can be effectively used to build complex, real-world applications. Contributions, suggestions, and critiques are all welcome as I continue my journey in the world of Computer Science.
 
 ## Preview of the Application
+<p align="center">
+  <img src="playing.gif" alt="Demo of Flight Tracker Application">
+</p>
 
-![Demo of Flight Tracker Application](playing.gif)
 
 ## Application Modes
 
