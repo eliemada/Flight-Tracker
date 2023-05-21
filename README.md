@@ -20,3 +20,4 @@ This project serves as a demonstration of how Java can be effectively used to bu
 
 ## Preview of the Application
 
+![Demo of Flight Tracker Application](playing.gif)
