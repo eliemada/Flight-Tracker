@@ -38,7 +38,6 @@ To make it easier to visualize and understand flight data, Flight Tracker employ
 <p align="center">
   <img src="Color_Codes.png" alt="Color Gradient in Function of the altitude">
 </p>
-The formula to compute the color is the following : \\
 $$
 c=\left[\frac{a}{12000}\right]^{\frac{1}{3}}
 $$
