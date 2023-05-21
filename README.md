@@ -21,3 +21,16 @@ This project serves as a demonstration of how Java can be effectively used to bu
 ## Preview of the Application
 
 ![Demo of Flight Tracker Application](playing.gif)
+
+## Application Modes
+
+Flight Tracker operates in two distinct modes, providing flexibility depending on your setup and requirements:
+
+1. **File Mode:** In this mode, the application decodes messages from a `.bin` file. This is an excellent option if you're working offline or wish to analyze previously collected flight data.
+
+2. **Live Mode:** For real-time aviation enthusiasts, Flight Tracker can work in live mode, provided you have an Airspy device plugged in. In this mode, the application decodes messages in real-time, providing up-to-the-minute flight data.
+
+## Altitude Color Coding
+
+To make it easier to visualize and understand flight data, Flight Tracker employs a color-coding system based on the altitude of the aircraft. This allows for an intuitive understanding of the altitude level of different flights at a glance, enhancing user experience and interaction with the app.
+
