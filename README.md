@@ -35,4 +35,11 @@ Flight Tracker operates in two distinct modes, providing flexibility depending o
 ## Altitude Color Coding
 
 To make it easier to visualize and understand flight data, Flight Tracker employs a color-coding system based on the altitude of the aircraft. This allows for an intuitive understanding of the altitude level of different flights at a glance, enhancing user experience and interaction with the app.
+<p align="center">
+  <img src="Color_Codes.png" alt="Color Gradient in Function of the altitude">
+</p>
+The formula to compute the color is the following : \\
+$$
+c=\left[\frac{a}{12000}\right]^{\frac{1}{3}}
+$$
 
