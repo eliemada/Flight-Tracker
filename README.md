@@ -20,7 +20,7 @@ This project serves as a demonstration of how Java can be effectively used to bu
 
 ## Preview of the Application
 <p align="center">
-  <img src="playing.gif" alt="Demo of Flight Tracker Application">
+  <img src="src/playing.gif" alt="Demo of Flight Tracker Application">
 </p>
 
 
@@ -36,7 +36,7 @@ Flight Tracker operates in two distinct modes, providing flexibility depending o
 
 To make it easier to visualize and understand flight data, Flight Tracker employs a color-coding system based on the altitude of the aircraft. This allows for an intuitive understanding of the altitude level of different flights at a glance, enhancing user experience and interaction with the app.
 <p align="center">
-  <img src="Color_Codes.png" alt="Color Gradient in Function of the altitude">
+  <img src="src/ColorCodes.png" alt="Color Gradient in Function of the altitude">
 </p>
 
 
