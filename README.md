@@ -61,5 +61,5 @@ This application uses JavaFX for its GUI. To install JavaFX, follow the instruct
 
 Please ensure that you have both Java 17 and JavaFX correctly installed and configured before trying to run the Flight Tracker application. In case of any difficulties or issues, refer to the installation guides provided on the official websites linked above.
 
-
+[Installation Guide : ](Prerequisite.md)
 
