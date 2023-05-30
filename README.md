@@ -63,3 +63,9 @@ Please ensure that you have both Java 17 and JavaFX correctly installed and conf
 
 [Installation Guide : ](Prerequisite.md)
 
+
+## Visual Guide to Create the Java Application : 
+
+<p align="center">
+  <img src="src/set-up.gif" alt="Creating the Application">
+</p>
