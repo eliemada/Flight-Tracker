@@ -39,6 +39,33 @@ To make it easier to visualize and understand flight data, Flight Tracker employ
   <img src="src/ColorCodes.png" alt="Color Gradient in Function of the altitude">
 </p>
 
+## Visual Guide to Create the Java Application : 
+
+<p align="center">
+  <img src="src/set-up.gif" alt="Creating the Application">
+</p>
+
+# Installation 
+
+To clone the Flight-Tracker repository, open your terminal and type:
+
+```bash
+git clone https://github.com/eliemada/Flight-Tracker.git
+```
+To create a project in IntelliJ, you would follow these steps:
+
+```markdown
+To start working with the cloned repository in IntelliJ, follow these steps:
+
+1. Open IntelliJ.
+2. Click on `File` from the toolbar.
+3. From the dropdown menu, choose `New` > `Project from Existing Sources`.
+4. Navigate to the directory where you cloned the Flight-Tracker repository.
+5. Select the repository folder and click `OK`.
+6. Follow the prompts in the New Project Wizard. ```
+
+You have now created a project from the cloned repository in IntelliJ.
+
 
 # Prerequisites
 
@@ -62,10 +89,3 @@ This application uses JavaFX for its GUI. To install JavaFX, follow the instruct
 Please ensure that you have both Java 17 and JavaFX correctly installed and configured before trying to run the Flight Tracker application. In case of any difficulties or issues, refer to the installation guides provided on the official websites linked above.
 
 [Installation Guide : ](Prerequisite.md)
-
-
-## Visual Guide to Create the Java Application : 
-
-<p align="center">
-  <img src="src/set-up.gif" alt="Creating the Application">
-</p>
