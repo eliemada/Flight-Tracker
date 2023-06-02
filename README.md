@@ -62,7 +62,8 @@ To start working with the cloned repository in IntelliJ, follow these steps:
 3. From the dropdown menu, choose `New` > `Project from Existing Sources`.
 4. Navigate to the directory where you cloned the Flight-Tracker repository.
 5. Select the repository folder and click `OK`.
-6. Follow the prompts in the New Project Wizard. ```
+6. Follow the prompts in the New Project Wizard. 
+```
 
 You have now created a project from the cloned repository in IntelliJ.
 
