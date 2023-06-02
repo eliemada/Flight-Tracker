@@ -1,0 +1,29 @@
+.aircraft {
+    -fx-stroke: black;
+    -fx-stroke-line-join: round;
+}
+
+.label {
+    -fx-translate-x: 5;
+    -fx-translate-y: 5
+}
+
+.label Rectangle {
+    -fx-arc-width: 4;
+    -fx-arc-height: 4;
+    -fx-fill: hsba(0, 0%, 0%, 0.4);
+    -fx-stroke: hsba(0, 0%, 0%, 0.5);
+}
+
+.label Text {
+    -fx-text-origin: top;
+    -fx-font-size: 10;
+    -fx-stroke: white;
+    -fx-translate-x: 2;
+    -fx-translate-y: 2;
+}
+
+.trajectory Line {
+    -fx-stroke-width: 3;
+    -fx-stroke-line-cap: round;
+}
